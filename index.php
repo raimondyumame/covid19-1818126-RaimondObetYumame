@@ -49,7 +49,7 @@
                                 <p class="card-text">ORANG</p>
                             </div>
                             <div class="col-md-4">
-                                <img src="img/emoji-04.png" alt="" heigth="100" width="100">
+                                <img src="img/sad.svg" alt="" heigth="100" width="100">
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                                 <p class="card-text">ORANG</p>
                             </div>
                             <div class="col-md-4">
-                                <img src="img/emoji-01.png" alt="" heigth="100" width="100">
+                                <img src="img/happy.svg" alt="" heigth="100" width="100">
                             </div>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                                 <p class="card-text">ORANG</p>
                             </div>
                             <div class="col-md-4">
-                                <img src="img/emoji-03.png" alt="" heigth="100" width="100">
+                                <img src="img/cry.svg" alt="" heigth="100" width="100">
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                                 <p class="card-text">ORANG</p>
                             </div>
                             <div class="col-md-4">
-                                <img src="img/emoji-04.png" alt="" heigth="100" width="100">
+                                <img src="img/sad.svg" alt="" heigth="100" width="100">
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                                 <p class="card-text">ORANG</p>
                             </div>
                             <div class="col-md-4">
-                                <img src="img/emoji-01.png" alt="" heigth="100" width="100">
+                                <img src="img/happy.svg" alt="" heigth="100" width="100">
                             </div>
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                                 <p class="card-text">ORANG</p>
                             </div>
                             <div class="col-md-4">
-                                <img src="img/emoji-03.png" alt="" heigth="100" width="100">
+                                <img src="img/cry.svg" alt="" heigth="100" width="100">
                             </div>
                         </div>
                     </div>

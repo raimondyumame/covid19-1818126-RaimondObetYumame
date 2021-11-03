@@ -29,6 +29,6 @@
     $meninggal=$result[0]->meninggal;
     $sembuh=$result[0]->sembuh;
     
-    $url_provinsi="https://api.kawalcorona.com/indonesia/provinsi/";
+    $url_provinsi="https://api.kawalcorona.com/indonesia/provinsi";
     $data_prov=ambil_url($url_provinsi);
 ?>
